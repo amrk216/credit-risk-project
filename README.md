@@ -34,17 +34,16 @@ credit_risk_project/
 - Visualization of key features
 - Distribution analysis
 - Correlation analysis
-![alt text](image-1.png)
-![alt text](output2.png)
-![alt text](output3.png)
-![alt text](output4.png)
-
+D:\transform 6 mon\week 1\credit_risk _project\assets\New folder\output.png
+D:\transform 6 mon\week 1\credit_risk _project\assets\New folder\output2.png
+assets/New folder/output3.png
+D:\transform 6 mon\week 1\credit_risk _project\assets\New folder\output4.png
 ### 3. modeling.ipynb
 - Model development and selection
 - Training and evaluation
 - Performance metrics
 - Feature importance analysis
-![alt text](Capture.PNG)
+D:\transform 6 mon\week 1\credit_risk _project\assets\New folder\Capture.PNG
 
 
 ## Data
