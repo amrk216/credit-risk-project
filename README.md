@@ -56,7 +56,7 @@ data/data_clean.csv
 
 Example preprocessing result:
 
-![Data Cleaning](assets/cleandata1.PNG)
+![Data Cleaning](./assets/screenshots/cleandata1.PNG)
 
 ---
 
@@ -74,9 +74,10 @@ Key steps include:
 
 Example visualizations:
 
-![Feature Distribution](assets/output.png)
+![Feature Distribution](./assets/screenshots/output.png)
 
-![Correlation Matrix](assets/output2.png)
+![Correlation Matrix](./assets/screenshots/output2.png)
+![Correlation Matrix](./assets/screenshots/output3.png)
 
 ---
 
@@ -95,7 +96,7 @@ Steps include:
 
 Example model results:
 
-![Model Results](assets/Capture.PNG)
+![Model Results](./assets/screenshots/Capture.PNG)
 
 ---
 
