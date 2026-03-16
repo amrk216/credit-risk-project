@@ -94,134 +94,31 @@ Steps include:
 * Performance metrics
 * Feature importance analysis
 
-Example model results:
+## Data
 
-![Model Results](./assets/screenshots/Capture.PNG)
+- **credit_risk_dataset.csv**: Original raw data with credit risk information
+- **data_clean.csv**: Cleaned and preprocessed data ready for modeling
 
----
+## Getting Started
 
-# Dataset
+1. Install required dependencies
+2. Run the notebooks in order:
+   - Clean_data.ipynb
+   - Visualization.ipynb
+   - modeling.ipynb
 
-### credit_risk_dataset.csv
+## Requirements
 
-The original dataset containing borrower information such as:
+- Python 3.x
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-* Income
-* Loan amount
-* Loan status
-* Employment details
-* Credit history
-* Other financial indicators
+## Authors
+Credit Risk Analysis Team
 
-### data_clean.csv
-
-The cleaned dataset generated after preprocessing, ready for modeling.
-
----
-
-# Technologies Used
-
-* Python 3.10
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
-
-# Getting Started
-
-## 1. Clone the repository
-
-```
-git clone https://github.com/your-username/credit_risk_project.git
-cd credit_risk_project
-```
-
----
-
-## 2. Install system dependencies
-
-```
-sudo apt update
-sudo apt install libpq-dev gcc python3-dev
-```
-
----
-
-## 3. Install Miniconda
-
-Download and install **Miniconda** from:
-
-https://docs.anaconda.com/free/miniconda/#quick-command-line-install
-
----
-
-## 4. Create a Python environment
-
-```
-conda create -n credit-risk python=3.10
-```
-
-Activate the environment:
-
-```
-conda activate credit-risk
-```
-
----
-
-## 5. Install Python dependencies
-
-```
-pip install -r requirements.txt
-```
-
----
-
-# Running the Project
-
-Run the notebooks in the following order:
-
-1️⃣ Clean_data.ipynb
-2️⃣ Visualization.ipynb
-3️⃣ modeling.ipynb
-
-This ensures the correct workflow from **data preprocessing → EDA → modeling**.
-
----
-
-# Optional: Run FastAPI Server (Development Mode)
-
-If the project includes an API for model inference, you can run it using:
-
-```
-uvicorn main:app --reload --port 5000
-```
-
-The API will be available at:
-
-```
-http://127.0.0.1:5000
-```
-
----
-
-# Project Goals
-
-* Understand financial risk patterns
-* Explore relationships between borrower features and loan default
-* Build a machine learning model for credit risk prediction
-* Demonstrate a complete **Data Science workflow**
-
----
-
-# Future Improvements
-
-* Add advanced feature engineering
-* Perform hyperparameter tuning
-* Implement additional machine learning models
-* Deploy the model as a production API
-* Build an interactive dashboard for risk analysis
+## Date
+March 2026
