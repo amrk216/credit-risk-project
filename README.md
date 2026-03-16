@@ -56,7 +56,7 @@ data/data_clean.csv
 
 Example preprocessing result:
 
-![Data Cleaning](assets/eda_feature_analysis.png)
+![Data Cleaning](assets/cleandata1.PNG)
 
 ---
 
@@ -74,9 +74,9 @@ Key steps include:
 
 Example visualizations:
 
-![Feature Distribution](assets/eda_distribution.png)
+![Feature Distribution](assets/output.png)
 
-![Correlation Matrix](assets/eda_correlation.png)
+![Correlation Matrix](assets/output2.png)
 
 ---
 
@@ -95,7 +95,7 @@ Steps include:
 
 Example model results:
 
-![Model Results](assets/model_results.png)
+![Model Results](assets/Capture.PNG)
 
 ---
 
